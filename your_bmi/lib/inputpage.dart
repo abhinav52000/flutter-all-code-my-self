@@ -5,7 +5,6 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'gendercard.dart';
 import 'constants.dart';
 import 'calculativepart.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
 Color malecardcolor = inactivecard;
